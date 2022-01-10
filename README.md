@@ -4,7 +4,7 @@ description: TenementDAO Whitepaper v0.1
 
 # Introduction
 
-We have an offer to buy a building near city center of my city Katowice in Poland for about 900k Euro, the building needs to be renovated and than flats can be rented for the income of a DAO treasury \
+We have an offer to buy a [building](building.md) near city center of city Katowice in Poland for about 900k Euro, the [building](building.md) needs to be renovated and than flats can be rented for the income of a DAO treasury \
 \
 What we want to do:\
 \- can be tied up to get funds and to make a earnings for HOLDers, \
