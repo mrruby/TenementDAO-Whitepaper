@@ -11,5 +11,11 @@ What we want to do:\
 \- members can make decisions for different decisions like what project to choose, tokens will have a real world value. \
 \- token can be deflatory for gratitude of a HODLers (5% of each transition dividend into two parts, first one burn, second one will go into project Treasury and may collect more for future purchases of different real estates for the DAO)\
 \
+Want to contribute? Feel free to open a PR:\
+[https://github.com/mrruby/TenementDAO-Whitepaper/pulls](https://github.com/mrruby/TenementDAO-Whitepaper/pulls)
+
+Join our Discord channel:\
+[https://discord.gg/uBvPCQRRpk](https://discord.gg/uBvPCQRRpk)\
+\
 Inspiration for the whitepaper/tokenomics/DAOorganization:\
 [https://pozzle-planet-1.gitbook.io/pozzle-planet-whitepaper/](https://pozzle-planet-1.gitbook.io/pozzle-planet-whitepaper/)
