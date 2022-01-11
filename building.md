@@ -1,6 +1,6 @@
 ---
 description: >-
-  More info about the building that we want to raise money for => property =>
+  More info about the building that we want to raise money for => buy =>
   improve => rent out
 ---
 
