@@ -1,6 +1,6 @@
 # Ideas
 
-* help homeless people with a free flats for weeks or year and they would have the possibility to try to get a job and leaves the flat
+* Help homeless people by providing free flats for periods up to a year, consequently giving them the possibility to get back into society, get a job and leave the flat as an end-goal.
 
 
 
