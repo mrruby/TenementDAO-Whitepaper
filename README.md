@@ -8,9 +8,12 @@ We have an offer to buy a [building](building.md) near city center of city Katow
 
 We want to raise money for that => buy the property => fix it => rent out\
 \
+How:\
+2000 NFT's that will represent ownership of the property, each NFT holder will recive monhly yiled in $TND tokens \
+\
 Value:
 
-* Token will have a real world value
+* Token/NFT will have a real world value
 * We want to do some good things for the world, look at our [ideas](ideas.md)\
 
 
@@ -19,6 +22,7 @@ DAO members can:
 * get money from earnings of the rented apartments,&#x20;
 * make vote for different decisions like what project to choose,&#x20;
 * spend some time in the special apartment for DAO members to visit the city \
+  \
 
 
 Want to contribute? Feel free to open a PR:\
