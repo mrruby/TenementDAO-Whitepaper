@@ -9,11 +9,12 @@ We have an offer to buy a [building](building.md) near city center of city Katow
 We want to raise money for that => buy the property => fix it => rent out\
 \
 How:\
-2000 NFT's that will represent ownership of the property, each NFT holder will recive monhly yield in $TND tokens \
+2000 NFT's that will represent ownership of the property, each NFT holder will receive monthly yield in $TND tokens \
 \
 Value:
 
 * Token/NFT will have a real world value
+* rent for the apartment can be paid in crypto ($TND)
 * We want to do some good things for the world, look at our [ideas](ideas.md)\
 
 
